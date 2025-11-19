@@ -1,0 +1,6 @@
+import stream as st
+import pandas as pd
+import numpy as np  
+
+st.title('Uber pickups in New York city')
+
