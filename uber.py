@@ -4,7 +4,7 @@ import numpy as np
 
 st.title('Uber pickups in NYC')
 
-    • DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
+     DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
              'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
 Date_COLUMN='date/time'
 
